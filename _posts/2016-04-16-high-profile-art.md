@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'High-Profile Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO'
-datePublished: '2016-04-16T18:38:45.037Z'
-dateModified: '2016-04-16T18:37:51.087Z'
+description: ''
+datePublished: '2016-04-16T18:42:08.426Z'
+dateModified: '2016-04-16T18:42:03.267Z'
 title: High-Profile Art
 author: []
 authors: []
@@ -22,7 +22,6 @@ url: high-profile-art/index.html
 _type: Article
 
 ---
-High-Profile Art 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8b71576-9be3-41b1-9242-8d9c171c11a2.jpg)
 
-High-Profile Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c90e52db4eb8cce671f0822fa8236f8a26208467.jpg)
+High-Profile Art
