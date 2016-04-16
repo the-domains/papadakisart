@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PapadakisArt]]></title>
-        <description><![CDATA[PapadakisArt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[George Papadakis  ]]></title>
+        <description><![CDATA[George Papadakis  ]]></description>
+        <link>https://thegrid.ai/papadakisart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 17:41:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 17:49:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/papadakisart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c40e036-ecad-4893-ade8-c99dbd15dfc6.jpg">]]></description>
+            <link>https://thegrid.ai/papadakisart/high-profile-sponsor-prints-for-the-marshall-faulk-foundatio/index.html</link>
+            <guid isPermaLink="false">d1ce7c71-a783-4d7a-9eec-62baba96583d</guid>
+            <pubDate>Sat, 16 Apr 2016 17:49:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High-Profile Sponsor Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO]]></title>
             <description><![CDATA[<article><h1>High-Profile Sponsor Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO</h1><p>High-Profile Sponsor Art for the Marshall Faulk Foundation & Celebrity Event in St. Louis, MO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcc8f35c282f87c4ab12fe768b8cf3b214c0b9ab.jpg"></article>]]></description>
-            <link>undefinedhigh-profile-sponsor-art-for-the-marshall-faulk-foundation-a/index.html</link>
+            <link>https://thegrid.ai/papadakisart/high-profile-sponsor-art-for-the-marshall-faulk-foundation-a/index.html</link>
             <guid isPermaLink="false">935e5452-00ff-4a43-b00a-84c0018daba9</guid>
             <pubDate>Sat, 16 Apr 2016 17:41:37 GMT</pubDate>
         </item>
