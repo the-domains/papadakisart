@@ -5,23 +5,21 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-16T18:42:08.426Z'
-dateModified: '2016-04-16T18:42:03.267Z'
+description: "High-Profile Art\_"
+datePublished: '2016-04-16T18:48:17.567Z'
+dateModified: '2016-04-16T18:47:00.657Z'
 title: High-Profile Art
 author: []
+sourcePath: _posts/2016-04-16-high-profile-art.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-high-profile-art.md
-published: true
 url: high-profile-art/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8b71576-9be3-41b1-9242-8d9c171c11a2.jpg)
-
-High-Profile Art
+High-Profile Art ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ad7272-2cda-4ab4-bb50-b2c910c72c9d.jpg)
