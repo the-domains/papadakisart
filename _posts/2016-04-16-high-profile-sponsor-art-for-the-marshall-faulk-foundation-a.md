@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'High-Profile Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO'
-datePublished: '2016-04-16T17:41:37.450Z'
-dateModified: '2016-04-16T17:41:08.542Z'
+description: 'High-Profile Sponsor Art for the Marshall Faulk Foundation & Celebrity Event in St. Louis, MO'
+datePublished: '2016-04-16T17:52:33.337Z'
+dateModified: '2016-04-16T17:50:18.808Z'
 title: 'High-Profile Sponsor Art for the Marshall Faulk Foundation and Celebrity Event in St. Louis, MO'
 author: []
+sourcePath: _posts/2016-04-16-high-profile-sponsor-art-for-the-marshall-faulk-foundation-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-high-profile-sponsor-art-for-the-marshall-faulk-foundation-a.md
-published: true
 url: high-profile-sponsor-art-for-the-marshall-faulk-foundation-a/index.html
 _type: Article
 
